@@ -1,0 +1,42 @@
+body, html, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.container-fluid {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.news-card {
+  margin: 10px;
+  width: 100%;
+}
+
+.news-card img {
+  width: 100%;
+  height: auto;
+}
+
+.navbar-custom {
+  background-color: #343a40;
+}
+
+.nav-link-custom {
+  color: #ffffff !important;
+  margin-right: 10px;
+}
+
+.nav-link-custom:hover {
+  color: #adb5bd !important;
+}
+
+.navbar-brand-custom {
+  color: #ffffff !important;
+}
+
+.navbar-brand-custom:hover {
+  color: #adb5bd !important;
+}
